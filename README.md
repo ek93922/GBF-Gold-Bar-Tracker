@@ -2,7 +2,7 @@
 
 Thank you for using my very first program since learning the basics of python.
 
-Source code is definitely a jumbled mess, and it's something I'd like to revisit once I accumulate experience with Python.
+Source code (prototype.py) is definitely a jumbled mess, and it's something I'd like to revisit once I accumulate experience with Python.
 
 There will certainly be bugs, and I hope you let me know if you run across them.
 
