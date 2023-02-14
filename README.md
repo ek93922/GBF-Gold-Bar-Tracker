@@ -1,12 +1,12 @@
 # GBF-Gold-Bar-Tracker
 
+**Important:** Current version of the gold bar tracker might be flagged as a virus. Looked into using Pyinstaller with a bootloader, but that process didn't work. Will look further into it when I get the chance to.
+------------------------------------------------------
 Thank you for using my very first program since learning the basics of python.
 
 Source code (prototype.py) is definitely a jumbled mess, and it's something I'd like to revisit once I accumulate experience with Python.
 
 There will certainly be bugs, and I hope you let me know if you run across them.
-
-**Important** Current version of the gold bar tracker might be flagged as a virus. Looked into using Pyinstaller with a bootloader, but that process didn't work.
 
 
 ------------------------------------------------------
