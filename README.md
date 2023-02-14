@@ -6,6 +6,8 @@ Source code (prototype.py) is definitely a jumbled mess, and it's something I'd 
 
 There will certainly be bugs, and I hope you let me know if you run across them.
 
+**Important** Current version of the gold bar tracker might be flagged as a virus. Looked into using Pyinstaller with a bootloader, but that process didn't work.
+
 
 ------------------------------------------------------
 Features
